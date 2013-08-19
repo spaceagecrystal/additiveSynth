@@ -2,9 +2,9 @@
 ----
 ## Summary
 
-This is a MAX/MSP example of additive synthesis. There are two files: one with a control object built in and one with midi inlets for external control. There are standalone files to run if you do not have max/msp. Enjoy!
+This is a MAX/MSP example of additive synthesis. There are two source files: one with a control object built in and one with midi inlets for external control. There are standalone files to run if you do not have max/msp. Enjoy!
 
-[about fm synthesis](http://en.wikipedia.org/wiki/Frequency_modulation_synthesis)
+[about additive synthesis](http://en.wikipedia.org/wiki/Additive_synthesis)
 
 ----
 
